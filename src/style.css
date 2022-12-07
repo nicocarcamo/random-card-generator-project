@@ -1,1 +1,29 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+#card {
+  background-color: whitesmoke;
+  margin: auto;
+  margin-top: 60px;
+  width: 300px;
+  height: 450px;
+  border-radius: 15px;
+}
+#card-number {
+  padding: 10px;
+  text-align: center;
+  font-size: 200px;
+  margin: auto;
+}
+#typeUp {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 40px;
+}
+#typeDown {
+  text-align: right;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 40px;
+}
